@@ -1,3 +1,10 @@
+#include "bits/stdc++.h"
+
+using namespace std;
+
+// Criado por Guilherme Silveira
+// Explicação em: (Protegendo a Florestas)
+
 
 // joao
 //   ^
@@ -14,9 +21,6 @@
 
 // parent[guilherme] = joao 
 
-#include "bits/stdc++.h"
-
-using namespace std;
 
 #define MAX 100005
 

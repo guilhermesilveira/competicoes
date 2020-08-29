@@ -1,3 +1,10 @@
+#include "bits/stdc++.h"
+
+using namespace std;
+
+// Criado por Guilherme Silveira
+// Explicação em: Competição com primos
+
 // A
 // B
 
@@ -24,10 +31,6 @@
 // B=3x5 ===> C=15
 // B=3^2*5 ===> C=45? C=15.... C=15 eh a solucao
 // quais sao os fatores de B?
-
-#include "bits/stdc++.h"
-
-using namespace std;
 
 using ll = long long;
 

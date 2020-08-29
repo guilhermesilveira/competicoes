@@ -2,6 +2,9 @@
 
 using namespace std;
 
+// Criado por Guilherme Silveira
+// Explicação em https://www.youtube.com/watch?v=NUYZDc8JARQ
+
 // 1 ate 9
 // 1+9=10
 // 2+8=10

@@ -4,6 +4,9 @@
 
 using namespace std;
 
+// Criado por Guilherme Silveira
+// Explicação em https://www.youtube.com/watch?v=8mBKZ96AZEE
+
 int main() {
     int n;
     cin >> n;

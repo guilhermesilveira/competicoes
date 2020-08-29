@@ -1,6 +1,11 @@
 #include <bits/stdc++.h>
 
 using namespace std;
+
+// Criado por Guilherme Silveira
+// Explicação em Buscar ou não buscar, eis a questão
+
+
 int s[30];
 
 // a 0

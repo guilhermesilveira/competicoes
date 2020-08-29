@@ -6,6 +6,10 @@ const int MAXN = 1000005;
 typedef pair<int,int> point;
 typedef pair<point, char> event;
 
+// solução dos juizes
+// A escrever e gravar em breve :) https://codeforces.com/gym/101879/problem/D
+
+
 event E[MAXN];
 int N;
 

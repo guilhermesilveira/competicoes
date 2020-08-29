@@ -2,6 +2,9 @@
 
 using namespace std;
 
+// Criado por Guilherme Silveira
+// A gravar https://codeforces.com/gym/101879/problem/B
+
 #define MAXN 2006
 int kz[MAXN];
 

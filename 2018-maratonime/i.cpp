@@ -5,6 +5,10 @@ using namespace std;
 deque<pair<char, char>> sol;
 typedef pair<char, char> pcc;
 
+// solução dos juizes
+// A escrever e gravar em breve :) https://codeforces.com/gym/101879/problem/I
+
+
 void solve(int n, char a, char b, char c) {
 	assert(n > 0);
 	if(n == 1) {

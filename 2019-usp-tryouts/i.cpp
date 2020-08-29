@@ -3,6 +3,9 @@
 #include <utility>
 #include <algorithm>
 
+// Criado por Guilherme Silveira
+// Explicação em https://www.youtube.com/watch?v=Ujr1eo4CvrI
+
 using namespace std;
 
 bool comparator(pair<long long, long long> &a, pair<long long, long long> &b) {
